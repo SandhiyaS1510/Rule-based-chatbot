@@ -55,5 +55,6 @@ Chatbot: Goodbye! Have a great day!
 🔹 Integrate Machine Learning/NLP models for dynamic responses
 🔹 Expand response database for more engaging conversations
 🔹 Deploy on a web app using Flask or FastAPI
-Thanks!
 🔹 Implement voice interaction with Speech-to-Text & Text-to-Speech
+
+Thanks!
